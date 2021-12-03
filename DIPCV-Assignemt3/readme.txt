@@ -12,5 +12,3 @@ Fourier_Transform.ipynb : 第一題 、第五題
 filter.ipynb : 第二題、第三題
 
 Image_denoising.ipynb : 第四題
-
-HW3.pdf : 各題詳細作法與結果呈現
