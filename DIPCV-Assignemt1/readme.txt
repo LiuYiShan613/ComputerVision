@@ -1,0 +1,1 @@
+用jupyter notebook開啟就可
